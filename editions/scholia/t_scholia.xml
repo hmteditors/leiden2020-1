@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Scholia to Burney 86 MS</title>
-                <author>NAAM</author>
-                <author>NAAM</author>
+                <author>Lisa Seldenthuis</author>
+                <author>Jildou de Regt</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -21,7 +21,7 @@
             <body>
                 <div n="T_190v_1" type="scholion">
                     <div n="lemma">
-                        <p><num value="?">Αἴαντε</num></p>
+                        <p><num value="1">Αἴαντε</num></p>
                     </div>
                     <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.T:17.508@Αἴαντε</p>
@@ -30,20 +30,21 @@
                         <p>πιθανὸν ἀνακεχωρηκότος τοῦ Ἕκτορος, καὶ τὸν Αἰαντα τολμῆσθαι καταλιπεῖν τὸ σῶμα τοῖς μετ' αὐτὸν ἀρίστοις⁑</p>
                     </div>
                 </div>
+
                 <div n="T_190v_2" type="scholion">
                     <div n="lemma">
-                        <p><num value="?">?</num><unclear>οἴκαδ᾽ἰμεν</unclear></p>
+                        <p><num value="2"></num></p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.T:17.155@οἴκαδ᾽ἰμεν</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.T:17.514@θεῶν</p>
                     </div>
                     <div n="comment">
-                        <p>⁑</p>
+                        <p>τοῖς κόλποις~ ὡς <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:16.443</ref><q>πολλάκις γούνασιν ἐφεσάμενος</q></cit>~ ὅ σφι πρόχειρα πάντα ἔχουσιν οἱ θεοί~ οἱ δὲ ἐν τῆι θεῶν δυνάμει ἀπὸ μέρους⁑</p>
                     </div>
                 </div>
                 <div n="T_190v_3" type="scholion">
                     <div n="lemma">
-                        <p><num value="?">?</num><unclear>οἴκαδ᾽ἰμεν</unclear></p>
+                        <p><num value="3">?</num><unclear>οἴκαδ᾽ἰμεν</unclear></p>
                     </div>
                     <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.T:17.155@οἴκαδ᾽ἰμεν</p>
